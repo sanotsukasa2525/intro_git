@@ -2,3 +2,4 @@ Gitの練習をしてきます
 コミットの変更
 editor.core変更
 git remove
+git status
